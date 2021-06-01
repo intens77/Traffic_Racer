@@ -1,0 +1,17 @@
+D:\TrafficRacer\TrafficRacer\Traffic_Racer\WindowsFormsApp1\bin\Release\net5.0-windows\Traffic_Racer.exe
+D:\TrafficRacer\TrafficRacer\Traffic_Racer\WindowsFormsApp1\bin\Release\net5.0-windows\Traffic_Racer.deps.json
+D:\TrafficRacer\TrafficRacer\Traffic_Racer\WindowsFormsApp1\bin\Release\net5.0-windows\Traffic_Racer.runtimeconfig.json
+D:\TrafficRacer\TrafficRacer\Traffic_Racer\WindowsFormsApp1\bin\Release\net5.0-windows\Traffic_Racer.runtimeconfig.dev.json
+D:\TrafficRacer\TrafficRacer\Traffic_Racer\WindowsFormsApp1\bin\Release\net5.0-windows\Traffic_Racer.dll
+D:\TrafficRacer\TrafficRacer\Traffic_Racer\WindowsFormsApp1\bin\Release\net5.0-windows\ref\Traffic_Racer.dll
+D:\TrafficRacer\TrafficRacer\Traffic_Racer\WindowsFormsApp1\bin\Release\net5.0-windows\Traffic_Racer.pdb
+D:\TrafficRacer\TrafficRacer\Traffic_Racer\WindowsFormsApp1\obj\Release\net5.0-windows\Traffic_Racer.Traffic_Racer.resources
+D:\TrafficRacer\TrafficRacer\Traffic_Racer\WindowsFormsApp1\obj\Release\net5.0-windows\Traffic_Racer.csproj.GenerateResource.cache
+D:\TrafficRacer\TrafficRacer\Traffic_Racer\WindowsFormsApp1\obj\Release\net5.0-windows\Traffic_Racer.GeneratedMSBuildEditorConfig.editorconfig
+D:\TrafficRacer\TrafficRacer\Traffic_Racer\WindowsFormsApp1\obj\Release\net5.0-windows\Traffic_Racer.AssemblyInfoInputs.cache
+D:\TrafficRacer\TrafficRacer\Traffic_Racer\WindowsFormsApp1\obj\Release\net5.0-windows\Traffic_Racer.AssemblyInfo.cs
+D:\TrafficRacer\TrafficRacer\Traffic_Racer\WindowsFormsApp1\obj\Release\net5.0-windows\Traffic_Racer.csproj.CoreCompileInputs.cache
+D:\TrafficRacer\TrafficRacer\Traffic_Racer\WindowsFormsApp1\obj\Release\net5.0-windows\Traffic_Racer.dll
+D:\TrafficRacer\TrafficRacer\Traffic_Racer\WindowsFormsApp1\obj\Release\net5.0-windows\ref\Traffic_Racer.dll
+D:\TrafficRacer\TrafficRacer\Traffic_Racer\WindowsFormsApp1\obj\Release\net5.0-windows\Traffic_Racer.pdb
+D:\TrafficRacer\TrafficRacer\Traffic_Racer\WindowsFormsApp1\obj\Release\net5.0-windows\Traffic_Racer.genruntimeconfig.cache
